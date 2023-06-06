@@ -1,0 +1,29 @@
+#welcome-section {
+ height: 100vh;
+ background-color: #661515;
+ display: flex;
+ align-items: center;
+ text-align: center;
+ color: aliceblue;
+ font-size: 3rem;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#imagespr {
+ display: inline-block;
+}
+
+#projects {
+ display: flex;
+ justify-content: center;
+}
+
+#projects img {
+ margin: 0 20px;
+}
+
+/* #textwel {
+ text-align: center;
+} */
+
+/* @media */
